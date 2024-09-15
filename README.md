@@ -1,6 +1,6 @@
 # Hi 👋 I’m Marcos Bernabé
 ## 💁 About me:
-First year student at UPV (Universitat Politecnic de Valencia), Spain. Currently studying a degree in Aerospace Engineering. 
+First year student at the UPV (Universitat Politecnic de Valencia), Spain. Currently studying a degree in Aerospace Engineering. 
 
 ## 🚀 What I'm up to:
   - 🏊‍♂️🚴‍♀️🏃‍♂️ Trying to maintain a healthy lifestyle with triathlon
