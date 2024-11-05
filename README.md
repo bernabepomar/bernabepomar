@@ -1,18 +1,5 @@
-# Hi 👋 I’m Marcos Bernabé
-## 💁 About me:
-First year student at the UPV (Universitat Politecnic de Valencia), Spain. Currently studying a degree in Aerospace Engineering. 
-
-## 🚀 What I'm up to:
-  - 🏊‍♂️🚴‍♀️🏃‍♂️ Trying to maintain a healthy lifestyle with triathlon
-  - 🧑‍💻 Studying as much as possible so that I can reach my goals.
-  - 👾 We only live once! So I try to have as much fun as possible while learning.
-
-## 🦾 Passions:
-  - 🏋️ Sports
-  - ✈️🏎️🚆 Any form of transport is a passion of mine
-  - ⌚ Horology
-  - 📸🎥 Photo and Video
-
+Just some cool stuff
+**Aerospatial Engineering student**
 
 <!---
 bernabepomar/bernabepomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
